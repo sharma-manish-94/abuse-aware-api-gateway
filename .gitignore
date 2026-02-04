@@ -1,0 +1,15 @@
+# Binaries
+gateway
+scorer
+replay
+upstream
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/settings.json
+
+# OS
+.DS_Store
